@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args ){
         // create a new object of class Main
+        //added comment
 
         // call the compute() method on that new object
     }
